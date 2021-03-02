@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BancoMR</string>
+    <string name="faturas">Faturas</string>
+    <string name="transfer_ncia">Transferência</string>
+    <string name="poupan_a">Poupança</string>
+    <string name="saldo">Saldo</string>
+    <string name="saldo_disponivel">Saldo Disponivel</string>
+    <string name="r_1500_00_reais">R$ 1500,00 Reais</string>
+    <string name="resumo_das_faturas">Resumo das Faturas</string>
+    <string name="data_de_vencimento_05_03_2021">Data de Vencimento: 05/03/2021</string>
+    <string name="saldo_parcial_500_00">Saldo Parcial: 500,00</string>
+    <string name="pagar_fatura">Pagar Fatura</string>
+    <string name="valor_total">Valor Total</string>
+    <string name="r_5000_00">R$ 5000,00</string>
+</resources>
